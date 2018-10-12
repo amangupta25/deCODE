@@ -17,7 +17,7 @@ Various parameters which can be noticed with the increase in the intensity of ea
 - Water Level - There are drastic changes in water level in several wells just before a major earthquake. 
 - Radon Gas - Radon is a radioactive gas which is discharged from rock masses prior to earthquake. 
 - Oil Wells - Large scale fluctuations of oil flow from oil wells prior to earthquakes were reported at many places
-- Changes in Seismic Wave Velocity - 
+- Changes in Seismic Wave Velocity - Seismologists have found that this lead time began to decrease significantly for days, weeks and even months before the earthquake. 
 
 ## Prediction Models
 These pre-stages data can be treated as parameters into our prediction model.
