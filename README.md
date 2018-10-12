@@ -1,6 +1,6 @@
 # Machine Learning for Earthquakes Prediction
 
-## Objective:
+## Objective
 Forecast the intensity, time and the affected areas by observing the pre-Earthquake events data.
 
 ## Model Parameters
