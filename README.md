@@ -5,10 +5,10 @@ Forecast the intensity, time and the affected areas by observing the pre-Earthqu
 
 ## Model Parameters
 Various parameters which can be noticed with the increase in the intensity of earthquakes
-- **Hydrochemical precursors** - Appreciable increase in concentration of dissolved minerals 2 to 8 days before an earthquake.
+- **Hydrochemical precursors** - Appreciable increase in concentration of dissolved minerals 2 to 8 days before an earthquak
 - **Temperature Change** - A considerable rise of temperature is usually observed before earthquakes
-- **Water Level** - There are drastic changes in water level in several wells just before a major earthquake. 
-- **Radon Gas** - Radon is a radioactive gas which is discharged from rock masses prior to earthquake. 
+- **Water Level** - There are drastic changes in water level in several wells just before a major earthquake
+- **Radon Gas** - Radon is a radioactive gas which is discharged from rock masses prior to earthquake
 - **Oil Wells** - Large scale fluctuations of oil flow from oil wells prior to earthquakes were reported at many places
 - **Changes in Seismic Wave Velocity** - Seismologists have found that this lead time began to decrease significantly
 - **Unusual Animal Behaviour** (explained below)
