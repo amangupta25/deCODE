@@ -19,3 +19,6 @@ As the project goes on, more and more are parameters are most likely to come int
 The representation of LDA is pretty straightforward. It consists of the statistical properties of your data, calculated for each class. For a single input variable this includes:
 - The mean value for each class.
 - The variance calculated across all classes.
+
+### Unusual Animal Behaviour
+Studying earthquakes has inherent diffculties because of its infrequent and unpredictable nature. Reports indicate that animals have unusual behaviour prior to an earthquake. Some animals have a remarkable ability of sensing things that humans cannot. Animals can sense even small changes in the environment and this changes their behaviour which when studied can often lead to inferences and predictions about earthquakes. Studying animal behaviour can help us build better sensors to detect the earthquake signals. 
