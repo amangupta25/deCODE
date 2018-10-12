@@ -1,14 +1,7 @@
 # Machine Learning for Earthquakes Prediction
 
 ## Objective:
-Forecast the intensity, time and the, to be affected areas by observing the pre-Earthquake events data.
-
-An earthquake is preceded by several pre-occurrence stages/phenomena:
-These pre-stages include: 
-- Abnormal ionic emissions
-- Sudden variations in seismic shift velocities.
-- Anomalies in electric and gravitational field
-- Sudden groundwater level changes 
+Forecast the intensity, time and the affected areas by observing the pre-Earthquake events data.
 
 ## Model Parameters
 Various parameters which can be noticed with the increase in the intensity of earthquakes
