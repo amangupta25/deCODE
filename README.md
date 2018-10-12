@@ -20,5 +20,14 @@ The representation of LDA is pretty straightforward. It consists of the statisti
 - The mean value for each class.
 - The variance calculated across all classes.
 
+Various parameters which can be noticed with the increase in the intensity of earthquakes
+- Hydrochemical precursors  
+- Temperature Change  
+- Water Level  
+- Radon Gas 
+- Oil Wells  
+- Changes in Seismic Wave Velocity
+
+
 ## Unusual Animal Behaviour
 Studying earthquakes has inherent diffculties because of its infrequent and unpredictable nature. Reports indicate that animals have unusual behaviour prior to an earthquake. Some animals have a remarkable ability of sensing things that humans cannot. Animals can sense even small changes in the environment and this changes their behaviour which when studied can often lead to inferences and predictions about earthquakes. Studying animal behaviour can help us build better sensors to detect the earthquake signals. 
