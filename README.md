@@ -10,6 +10,15 @@ These pre-stages include:
 - Anomalies in electric and gravitational field
 - Sudden groundwater level changes 
 
+## Model Parameters
+Various parameters which can be noticed with the increase in the intensity of earthquakes
+- Hydrochemical precursors  
+- Temperature Change  
+- Water Level  
+- Radon Gas 
+- Oil Wells  
+- Changes in Seismic Wave Velocity
+
 These pre-stages data can be treated as parameters into our prediction model.
 Even though the efficiency of a model can’t be determined beforehand without analyzing the data, still we can fall to a few models:
 #### 1. Logistic Regression: 
@@ -19,15 +28,6 @@ As the project goes on, more and more are parameters are most likely to come int
 The representation of LDA is pretty straightforward. It consists of the statistical properties of your data, calculated for each class. For a single input variable this includes:
 - The mean value for each class.
 - The variance calculated across all classes.
-
-Various parameters which can be noticed with the increase in the intensity of earthquakes
-- Hydrochemical precursors  
-- Temperature Change  
-- Water Level  
-- Radon Gas 
-- Oil Wells  
-- Changes in Seismic Wave Velocity
-
 
 ## Unusual Animal Behaviour
 Studying earthquakes has inherent diffculties because of its infrequent and unpredictable nature. Reports indicate that animals have unusual behaviour prior to an earthquake. Some animals have a remarkable ability of sensing things that humans cannot. Animals can sense even small changes in the environment and this changes their behaviour which when studied can often lead to inferences and predictions about earthquakes. Studying animal behaviour can help us build better sensors to detect the earthquake signals. 
