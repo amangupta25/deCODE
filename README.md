@@ -19,6 +19,7 @@ Various parameters which can be noticed with the increase in the intensity of ea
 - Oil Wells  
 - Changes in Seismic Wave Velocity
 
+## Prediction Models
 These pre-stages data can be treated as parameters into our prediction model.
 Even though the efficiency of a model can’t be determined beforehand without analyzing the data, still we can fall to a few models:
 #### 1. Logistic Regression: 
